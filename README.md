@@ -58,8 +58,7 @@ Population-Data-Analysis/
 ```
 
 ## 📢 Note
-
-## Ce projet est à visée pédagogique et pratique. Il illustre des compétences en data cleaning, statistiques et visualisation applicables dans des contextes professionnels.
+Ce projet est à visée pédagogique et pratique. Il illustre des compétences en data cleaning, statistiques et visualisation applicables dans des contextes professionnels.
 
 ---
 

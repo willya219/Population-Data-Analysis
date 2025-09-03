@@ -48,8 +48,8 @@ jupyter notebook notebooks/book.ipynb
 ```
 Population-Data-Analysis/
 │── notebooks/
-│    └── Analysis.ipynb  # Jupyter Notebook avec les codes python de l'analyse
-│── report/
+│    └── book.ipynb  # Jupyter Notebook avec les codes python de l'analyse
+│── reports/
 │    └── Rapport d'analyse.pdf      # Rapport complet en PDF
 │── Ennoncé.pdf    # Sujet à traiter
 │── README.md
@@ -111,8 +111,8 @@ jupyter notebook notebooks/book.ipynb
 ```
 Population-Data-Analysis/
 │── notebooks/
-│    └── Analysis.ipynb  # Jupyter Notebook with full analysis
-│── report/
+│    └── book.ipynb  # Jupyter Notebook with full analysis
+│── reports/
 │    └── Rapport d'analyse.pdf      # Full written analysis in PDF
 │── Ennoncé.pdf    # Subject to answer
 │── README.md

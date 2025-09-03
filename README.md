@@ -69,7 +69,7 @@ The project includes:
 Clonez le dépôt et installez les dépendances :
 
 ```bash
-git clone https://github.com/<username>/Population-Data-Analysis.git
+git clone https://github.com/willya219/Population-Data-Analysis.git
 cd Population-Data-Analysis
 pip install -r requirements.txt
 jupyter notebook notebooks/book.ipynb
@@ -79,7 +79,7 @@ jupyter notebook notebooks/book.ipynb
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/<username>/Population-Data-Analysis.git
+git clone https://github.com/willya219/Population-Data-Analysis.git
 cd Population-Data-Analysis
 pip install -r requirements.txt
 jupyter notebook notebooks/TP1_Code.ipynb
